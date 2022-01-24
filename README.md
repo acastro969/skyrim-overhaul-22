@@ -1,51 +1,75 @@
 # Skyrim SE-AE Overhaul 2022 ModList
 
-[Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266 "Unofficial Skyrim Special Edition Patch")
+##   Presets - ENB and ReShade
 
-[Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386 "Sovngarde - A Nordic Font")
+- [Rudy ENB SE for Obsidian Weathers - Vivid Weathers - NAT 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/4796 "Rudy ENB SE for Obsidian Weathers - Vivid Weathers - NAT 2.0")
 
-[Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
+- [ENB Helper SE](https://www.nexusmods.com/skyrimspecialedition/mods/23174 "ENB Helper SE")
 
-[WICO - Windsong Immersive Character Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2136 "WICO - Windsong Immersive Character Overhaul") **+18**
+## Visuals and Graphics
 
-[Skyrim Flora Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/2154 "Skyrim Flora Overhaul SE")
+- [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357 "Enhanced Blood Textures") **+18**
 
-[Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357 "Enhanced Blood Textures") **+18**
+- [Enhanced Lights and FX](https://www.nexusmods.com/skyrimspecialedition/mods/2424 "Enhanced Lights and FX")
 
-[Enhanced Lights and FX](https://www.nexusmods.com/skyrimspecialedition/mods/2424 "Enhanced Lights and FX")
+- [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808 "Footprints")
 
-[Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808 "Footprints")
+- [ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574 "ENB Light")
 
-[A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804 "A Quality World Map")
+## Models and textures
 
-[JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289 "JK's Skyrim")
+- [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
 
-[Convenient Horses](https://www.nexusmods.com/skyrimspecialedition/mods/9519 "Convenient Horses")
+- [WICO - Windsong Immersive Character Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2136 "WICO - Windsong Immersive Character Overhaul") **+18**
 
-[Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125 "Obsidian Weathers and Seasons")
+- [Skyrim Flora Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/2154 "Skyrim Flora Overhaul SE")
 
-[Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466 "Audio Overhaul for Skyrim SE")
+- [Smooth Sky mesh - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/18350 "Smooth Sky mesh - SSE")
 
-[SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604 "SkyUI")
+- [Noble Skyrim Mod HD-2K](https://www.nexusmods.com/skyrimspecialedition/mods/21423 "Noble Skyrim Mod HD-2K")
 
-[Wonders of Weather](https://www.nexusmods.com/skyrimspecialedition/mods/13044 "Wonders of Weather")
+## User Interface
 
-[PapyrusUtil SE - Modders Scripting Utility Functions](https://www.nexusmods.com/skyrimspecialedition/mods/13048 "PapyrusUtil SE - Modders Scripting Utility Functions")
+- [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386 "Sovngarde - A Nordic Font")
 
-[Touring Carriages SE](https://www.nexusmods.com/skyrimspecialedition/mods/15948 "Touring Carriages SE")
+- [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804 "A Quality World Map")
 
-[Smooth Sky mesh - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/18350 "Smooth Sky mesh - SSE")
+- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604 "SkyUI")
 
-[RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080 "RaceMenu")
+- [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080 "RaceMenu")
 
-[Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085 "Quick Loot RE")
+- [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085 "Quick Loot RE")
 
-[Noble Skyrim Mod HD-2K](https://www.nexusmods.com/skyrimspecialedition/mods/21423 "Noble Skyrim Mod HD-2K")
+## Bug Fixes
 
-[Immersive Citizens - AI Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/173 "Immersive Citizens - AI Overhaul SE")
+- [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266 "Unofficial Skyrim Special Edition Patch")
 
-[ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574 "ENB Light")
+## Immersion
 
-[ENB Helper SE](https://www.nexusmods.com/skyrimspecialedition/mods/23174 "ENB Helper SE")
+- [Wonders of Weather](https://www.nexusmods.com/skyrimspecialedition/mods/13044 "Wonders of Weather")
 
-[Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444 "Address Library for SKSE Plugins")
+- [Touring Carriages SE](https://www.nexusmods.com/skyrimspecialedition/mods/15948 "Touring Carriages SE")
+
+- [Immersive Citizens - AI Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/173 "Immersive Citizens - AI Overhaul SE")
+
+## Audio
+
+- [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466 "Audio Overhaul for Skyrim SE")
+
+## Cities, Towns, Villages, and Hamlets
+
+- [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289 "JK's Skyrim")
+
+##  Creatures and Mounts
+
+- [Convenient Horses](https://www.nexusmods.com/skyrimspecialedition/mods/9519 "Convenient Horses")
+
+##  Environmental
+
+- [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125 "Obsidian Weathers and Seasons")
+
+##  Modders Resources
+
+- [PapyrusUtil SE - Modders Scripting Utility Functions](https://www.nexusmods.com/skyrimspecialedition/mods/13048 "PapyrusUtil SE - Modders Scripting Utility Functions")
+
+- [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444 "Address Library for SKSE Plugins")
