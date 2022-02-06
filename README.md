@@ -16,6 +16,10 @@
 
 - [ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574 "ENB Light")
 
+##  Gameplay
+
+- [Alternate Start - Live Another Life - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/272 "Alternate Start - Live Another Life - SSE")
+
 ## Models and textures
 
 - [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
