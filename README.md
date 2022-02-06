@@ -12,7 +12,7 @@
 
 ## Mod List
 
-###   Presets - ENB and ReShade
+### Presets - ENB and ReShade
 
 - [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543 "Silent Horizons ENB") (For Obsidian Weathers)
 
@@ -26,7 +26,7 @@
 
 - [ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574 "ENB Light")
 
-###  Gameplay
+### Gameplay
 
 - [Alternate Start - Live Another Life - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/272 "Alternate Start - Live Another Life - SSE")
 
@@ -92,11 +92,11 @@
 
 - [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289 "JK's Skyrim")
 
-###  Creatures and Mounts
+### Creatures and Mounts
 
 - [Convenient Horses](https://www.nexusmods.com/skyrimspecialedition/mods/9519 "Convenient Horses")
 
-###  Environmental
+### Environmental
 
 - [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125 "Obsidian Weathers and Seasons")
 
