@@ -12,7 +12,7 @@
 
 ## Mod List
 
-### Presets - ENB and ReShade
+###   Presets - ENB and ReShade
 
 - [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543 "Silent Horizons ENB") (For Obsidian Weathers)
 
@@ -26,7 +26,7 @@
 
 - [ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574 "ENB Light")
 
-### Gameplay
+###  Gameplay
 
 - [Alternate Start - Live Another Life - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/272 "Alternate Start - Live Another Life - SSE")
 
@@ -37,6 +37,8 @@
 - [WICO - Windsong Immersive Character Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2136 "WICO - Windsong Immersive Character Overhaul") **+18**
 
 - [Smooth Sky mesh - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/18350 "Smooth Sky mesh - SSE")
+
+- [Noble Skyrim Mod HD-2K](https://www.nexusmods.com/skyrimspecialedition/mods/21423 "Noble Skyrim Mod HD-2K")
 
 - [Skyrim 3D Trees and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/12371 "Skyrim 3D Trees and Plants")
 
@@ -90,11 +92,11 @@
 
 - [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289 "JK's Skyrim")
 
-### Creatures and Mounts
+###  Creatures and Mounts
 
 - [Convenient Horses](https://www.nexusmods.com/skyrimspecialedition/mods/9519 "Convenient Horses")
 
-### Environmental
+###  Environmental
 
 - [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125 "Obsidian Weathers and Seasons")
 
@@ -119,6 +121,8 @@
 ### Armour
 
 - [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479 "Immersive Armors")
+
+- [Guards Armor Replacement SSE](https://www.nexusmods.com/skyrimspecialedition/mods/19019 "Guards Armor Replacement SSE")
 
 ### Combat
 
