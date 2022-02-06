@@ -101,3 +101,11 @@
 - [Veydosebrom Regions](https://www.nexusmods.com/skyrimspecialedition/mods/26293 "Veydosebrom Regions")
 
 - [TREES ADDON SE](https://www.nexusmods.com/skyrimspecialedition/mods/22053 "TREES ADDON SE")
+
+### Weapons
+
+- [Immersive Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/16788 "Immersive Weapons")
+
+### Armour
+
+- [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479 "Immersive Armors")
