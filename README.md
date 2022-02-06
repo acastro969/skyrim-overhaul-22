@@ -82,6 +82,8 @@
 
 - [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466 "Audio Overhaul for Skyrim SE")
 
+- [Celtic Music in Skyrim - SE](https://www.nexusmods.com/skyrimspecialedition/mods/2980 "Celtic Music in Skyrim - SE")
+
 ### Cities, Towns, Villages, and Hamlets
 
 - [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289 "JK's Skyrim")
