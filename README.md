@@ -5,9 +5,13 @@
 ## Requirements
 
 - [Latest ENB Binaries](http://enbdev.com/download_mod_tesskyrimse.htm "Latest ENB Binaries")
+
 - [SKSE AE](https://skse.silverlock.org/ "SKSE")
+
 - [Skyrim particle patch for ENB](http://enbseries.enbdev.com/forum/viewtopic.php?f=6&t=1499 "Skyrim particle patch for ENB")
+
 - [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444 "Address Library for SKSE Plugins")
+
 - [ENB Helper SE](https://www.nexusmods.com/skyrimspecialedition/mods/23174 "ENB Helper SE")
 
 ## Mod List
@@ -131,3 +135,13 @@
 ### Patches
 
 - [JK's Skyrim-ELFX Ext. Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25491 "JK's Skyrim-ELFX Ext. Patch")
+
+## Load Rules
+
+[Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834 "Blended Roads") **AFTER** [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
+
+[ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574 "ENB Light") **AFTER** [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
+
+[Enhanced Lights and FX](https://www.nexusmods.com/skyrimspecialedition/mods/2424 "Enhanced Lights and FX") **AFTER** [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
+
+[Realistic Water Two SE](https://www.nexusmods.com/skyrimspecialedition/mods/2182 "Realistic Water Two SE") **AFTER** [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
