@@ -26,11 +26,7 @@
 
 - [WICO - Windsong Immersive Character Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2136 "WICO - Windsong Immersive Character Overhaul") **+18**
 
-- [Skyrim Flora Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/2154 "Skyrim Flora Overhaul SE")
-
 - [Smooth Sky mesh - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/18350 "Smooth Sky mesh - SSE")
-
-- [Noble Skyrim Mod HD-2K](https://www.nexusmods.com/skyrimspecialedition/mods/21423 "Noble Skyrim Mod HD-2K")
 
 ## User Interface
 
@@ -52,8 +48,6 @@
 
 - [Wonders of Weather](https://www.nexusmods.com/skyrimspecialedition/mods/13044 "Wonders of Weather")
 
-- [Touring Carriages SE](https://www.nexusmods.com/skyrimspecialedition/mods/15948 "Touring Carriages SE")
-
 - [Immersive Citizens - AI Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/173 "Immersive Citizens - AI Overhaul SE")
 
 ## Audio
@@ -73,7 +67,5 @@
 - [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125 "Obsidian Weathers and Seasons")
 
 ##  Modders Resources
-
-- [PapyrusUtil SE - Modders Scripting Utility Functions](https://www.nexusmods.com/skyrimspecialedition/mods/13048 "PapyrusUtil SE - Modders Scripting Utility Functions")
 
 - [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444 "Address Library for SKSE Plugins")
