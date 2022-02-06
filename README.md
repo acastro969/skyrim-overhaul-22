@@ -2,7 +2,7 @@
 
 ##   Presets - ENB and ReShade
 
-- [Rudy ENB SE for Obsidian Weathers - Vivid Weathers - NAT 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/4796 "Rudy ENB SE for Obsidian Weathers - Vivid Weathers - NAT 2.0")
+- [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543 "Silent Horizons ENB") (For Obsidian Weathers)
 
 - [ENB Helper SE](https://www.nexusmods.com/skyrimspecialedition/mods/23174 "ENB Helper SE")
 
