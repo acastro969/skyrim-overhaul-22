@@ -74,6 +74,10 @@
 
 - [Immersive Citizens - AI Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/173 "Immersive Citizens - AI Overhaul SE")
 
+- [Wet and Cold SE](https://www.nexusmods.com/skyrimspecialedition/mods/644 "Wet and Cold SE")
+
+- [Immersive Patrols SE](https://www.nexusmods.com/skyrimspecialedition/mods/718 "Immersive Patrols SE")
+
 ### Audio
 
 - [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466 "Audio Overhaul for Skyrim SE")
