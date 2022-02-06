@@ -1,12 +1,20 @@
 # Skyrim SE-AE Overhaul 2022 ModList
 
-##   Presets - ENB and ReShade
+## Requirements
+
+- [Latest ENB Binaries](http://enbdev.com/download_mod_tesskyrimse.htm "Latest ENB Binaries")
+- [SKSE AE](https://skse.silverlock.org/ "SKSE")
+- [Skyrim particle patch for ENB](http://enbseries.enbdev.com/forum/viewtopic.php?f=6&t=1499 "Skyrim particle patch for ENB")
+- [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444 "Address Library for SKSE Plugins")
+- [ENB Helper SE](https://www.nexusmods.com/skyrimspecialedition/mods/23174 "ENB Helper SE")
+
+## Mod List
+
+### Presets - ENB and ReShade
 
 - [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543 "Silent Horizons ENB") (For Obsidian Weathers)
 
-- [ENB Helper SE](https://www.nexusmods.com/skyrimspecialedition/mods/23174 "ENB Helper SE")
-
-## Visuals and Graphics
+### Visuals and Graphics
 
 - [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357 "Enhanced Blood Textures") **+18**
 
@@ -16,11 +24,11 @@
 
 - [ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574 "ENB Light")
 
-##  Gameplay
+### Gameplay
 
 - [Alternate Start - Live Another Life - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/272 "Alternate Start - Live Another Life - SSE")
 
-## Models and textures
+### Models and textures
 
 - [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
 
@@ -28,7 +36,7 @@
 
 - [Smooth Sky mesh - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/18350 "Smooth Sky mesh - SSE")
 
-## User Interface
+### User Interface
 
 - [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386 "Sovngarde - A Nordic Font")
 
@@ -40,32 +48,28 @@
 
 - [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085 "Quick Loot RE")
 
-## Bug Fixes
+### Bug Fixes
 
 - [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266 "Unofficial Skyrim Special Edition Patch")
 
-## Immersion
+### Immersion
 
 - [Wonders of Weather](https://www.nexusmods.com/skyrimspecialedition/mods/13044 "Wonders of Weather")
 
 - [Immersive Citizens - AI Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/173 "Immersive Citizens - AI Overhaul SE")
 
-## Audio
+### Audio
 
 - [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466 "Audio Overhaul for Skyrim SE")
 
-## Cities, Towns, Villages, and Hamlets
+### Cities, Towns, Villages, and Hamlets
 
 - [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289 "JK's Skyrim")
 
-##  Creatures and Mounts
+### Creatures and Mounts
 
 - [Convenient Horses](https://www.nexusmods.com/skyrimspecialedition/mods/9519 "Convenient Horses")
 
-##  Environmental
+### Environmental
 
 - [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125 "Obsidian Weathers and Seasons")
-
-##  Modders Resources
-
-- [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444 "Address Library for SKSE Plugins")
