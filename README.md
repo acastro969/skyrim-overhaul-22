@@ -117,3 +117,11 @@
 ### Armour
 
 - [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479 "Immersive Armors")
+
+### Combat
+
+- [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368 "Wildcat - Combat of Skyrim")
+
+### Patches
+
+- [JK's Skyrim-ELFX Ext. Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25491 "JK's Skyrim-ELFX Ext. Patch")
