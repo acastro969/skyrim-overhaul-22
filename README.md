@@ -95,3 +95,9 @@
 ### Environmental
 
 - [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125 "Obsidian Weathers and Seasons")
+
+- [Realistic Water Two SE](https://www.nexusmods.com/skyrimspecialedition/mods/2182 "Realistic Water Two SE")
+
+- [Veydosebrom Regions](https://www.nexusmods.com/skyrimspecialedition/mods/26293 "Veydosebrom Regions")
+
+- [TREES ADDON SE](https://www.nexusmods.com/skyrimspecialedition/mods/22053 "TREES ADDON SE")
