@@ -36,6 +36,14 @@
 
 - [Smooth Sky mesh - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/18350 "Smooth Sky mesh - SSE")
 
+- [Skyrim 3D Trees and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/12371 "Skyrim 3D Trees and Plants")
+
+- [Skyrim 3D Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/17732 "Skyrim 3D Rocks")
+
+- [Skyrim 3D Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/18247 "Skyrim 3D Landscapes")
+
+- [Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834 "Blended Roads")
+
 ### User Interface
 
 - [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386 "Sovngarde - A Nordic Font")
