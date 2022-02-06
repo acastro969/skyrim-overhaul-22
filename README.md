@@ -102,6 +102,14 @@
 
 - [TREES ADDON SE](https://www.nexusmods.com/skyrimspecialedition/mods/22053 "TREES ADDON SE")
 
+### Animation
+
+- [No Spinning Death Animation SE](https://www.nexusmods.com/skyrimspecialedition/mods/1432 "No Spinning Death Animation SE")
+
+### Body, Face and Hair
+
+- [High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863 "High Poly Vanilla Hair")
+
 ### Weapons
 
 - [Immersive Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/16788 "Immersive Weapons")
