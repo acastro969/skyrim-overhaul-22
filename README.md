@@ -56,6 +56,14 @@
 
 - [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085 "Quick Loot RE")
 
+- [Immersive HUD - iHUD Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/12440 "Immersive HUD - iHUD Special Edition")
+
+- [Floating Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14332 "Floating Damage")
+
+- [Display Enemy Level](https://www.nexusmods.com/skyrimspecialedition/mods/18533 "Display Enemy Level")
+
+- [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804 "A Quality World Map")
+
 ### Bug Fixes
 
 - [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266 "Unofficial Skyrim Special Edition Patch")
