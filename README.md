@@ -6,7 +6,28 @@
 
 ## Table of Contents
 
-[TOC]
+- [About](#about)
+- [Requirements](#requirements)
+- [Mod List](#mod-list)
+  * [Presets - ENB and ReShade (Choose Obsidian Weathers Option)](#presets---enb-and-reshade-choose-obsidian-weathers-option)
+  * [Visuals and Graphics](#visuals-and-graphics)
+  * [Gameplay](#gameplay)
+  * [Models and textures](#models-and-textures)
+  * [User Interface](#user-interface)
+  * [Bug Fixes](#bug-fixes)
+  * [Immersion](#immersion)
+  * [Audio](#audio)
+  * [Cities, Towns, Villages, and Hamlets](#cities-towns-villages-and-hamlets)
+  * [Creatures and Mounts](#creatures-and-mounts)
+  * [Environmental](#environmental)
+  * [Animation](#animation)
+  * [Body, Face and Hair](#body-face-and-hair)
+  * [Weapons](#weapons)
+  * [Armour](#armour)
+  * [Combat](#combat)
+  * [Patches](#patches)
+- [Load Rules](#load-rules)
+- [SkyrimPrefs.ini Tweaks](#skyrimprefsini-tweaks)
 
 ## About
 
