@@ -1,6 +1,7 @@
 # Skyrim SE-AE Overhaul 2022 ModList
 
 [![](https://i.ibb.co/JyPfn1K/Screen-Shot2.png)](https://i.ibb.co/JyPfn1K/Screen-Shot2.png)
+*(Riverwood, Silent Horizons ENB Preset)*
 
 ## Requirements
 
@@ -12,9 +13,13 @@
 
 ## Mod List
 
-### Presets - ENB and ReShade
+### Presets - ENB and ReShade (Choose Obsidian Weathers Option)
 
-- [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543 "Silent Horizons ENB") (For Obsidian Weathers)
+- [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543 "Silent Horizons ENB") (Vibrant and dramatic)
+
+**OR**
+
+- [Rudy ENB SE for Obsidian Weathers - Vivid Weathers - NAT 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/4796) (Realistic look)
 
 ### Visuals and Graphics
 
