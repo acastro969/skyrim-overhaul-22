@@ -1,7 +1,7 @@
 # Skyrim SE-AE Overhaul 2022 ModList
 
-[![](https://i.ibb.co/JyPfn1K/Screen-Shot2.png)](https://i.ibb.co/JyPfn1K/Screen-Shot2.png)
-*(Riverwood, Silent Horizons ENB Preset)*
+![](https://raw.githubusercontent.com/acastro969/skyrim-overhaul-22/master/screenshots/rudy/forest.png)
+*(Rudy ENB Preset Option)*
 
 The aim of this modlist is to enhance every aspect of Skyrim while maintaining it true to it's original form. With it main focus being the graphic aspect but not limited to it.
 
