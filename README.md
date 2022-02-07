@@ -3,6 +3,12 @@
 [![](https://i.ibb.co/JyPfn1K/Screen-Shot2.png)](https://i.ibb.co/JyPfn1K/Screen-Shot2.png)
 *(Riverwood, Silent Horizons ENB Preset)*
 
+The aim of this modlist is to enhance every aspect of Skyrim while maintaining it true to it's original form. With it main focus being the graphic aspect but not limited to it.
+
+I usually come across another players modlists claiming that theirs will deliver the best posible looking Skyrim. It's pretty obvious that even if we all try we never will come to an agreement of what the **best looking Skyrim** is, mainly because we all have different tastes and interests. The problem is that in the pursuit of this "best looking Skyrim" in many cases people end up making the game look oversaturated, or washed out, or with too much contast, or they add a lot of very good mods but that their artistic direction doesn't match between them, or they put mods that even doesn't match the Skyrim's aesthetic. Not counting that in many cases you need to download 100+ mods to get the same result as of what is being shown, causing you to spend a lot of time downloading them and resolving conflicts.
+
+This modlist consist of only 44 mods (at the moment) and they will improve drastically how the game looks and plays without making your eyes hurt.
+
 ## Requirements
 
 - [Latest ENB Binaries](http://enbdev.com/download_mod_tesskyrimse.htm "Latest ENB Binaries")
