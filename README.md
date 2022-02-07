@@ -42,6 +42,7 @@
 - [Skyrim 3D Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/17732 "Skyrim 3D Rocks")
 - [Skyrim 3D Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/18247 "Skyrim 3D Landscapes")
 - [Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834 "Blended Roads")
+- [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029 "High Poly Project")
 
 ### User Interface
 
@@ -112,7 +113,11 @@
 - [JK's Skyrim-ELFX Ext. Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25491 "JK's Skyrim-ELFX Ext. Patch")
 
 ## Load Rules
+- [Noble Skyrim Mod HD-2K](https://www.nexusmods.com/skyrimspecialedition/mods/21423 "Noble Skyrim Mod HD-2K") **AFTER** [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
+- [Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834 "Blended Roads") **AFTER** [Noble Skyrim Mod HD-2K](https://www.nexusmods.com/skyrimspecialedition/mods/21423 "Noble Skyrim Mod HD-2K")
 - [Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834 "Blended Roads") **AFTER** [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
 - [ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574 "ENB Light") **AFTER** [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
 - [Enhanced Lights and FX](https://www.nexusmods.com/skyrimspecialedition/mods/2424 "Enhanced Lights and FX") **AFTER** [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
 - [Realistic Water Two SE](https://www.nexusmods.com/skyrimspecialedition/mods/2182 "Realistic Water Two SE") **AFTER** [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
+- [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029 "High Poly Project") **AFTER** [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
+- [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029 "High Poly Project") **AFTER** [Enhanced Lights and FX](https://www.nexusmods.com/skyrimspecialedition/mods/2424 "Enhanced Lights and FX")
