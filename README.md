@@ -127,3 +127,15 @@ This modlist consist of only 44 mods (at the moment) and they will improve drast
 - [Realistic Water Two SE](https://www.nexusmods.com/skyrimspecialedition/mods/2182 "Realistic Water Two SE") **AFTER** [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
 - [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029 "High Poly Project") **AFTER** [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Static Mesh Improvement Mod - SMIM")
 - [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029 "High Poly Project") **AFTER** [Enhanced Lights and FX](https://www.nexusmods.com/skyrimspecialedition/mods/2424 "Enhanced Lights and FX")
+
+## SkyrimPrefs.ini Tweaks
+    [Display]
+	bEnableImprovedSnow=0
+	bIBLFEnable=0
+	bIndEnable=0
+	bSAO_CS_Enable=0
+	bSAOEnable=0
+	bUse64bitsHDRRenderTarget=0
+	
+	[Particles]
+	iMaxDesired=7500
